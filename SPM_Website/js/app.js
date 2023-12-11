@@ -1,5 +1,5 @@
+/* Trenner*/
 const header = document.querySelector("header");
-
 const first_skill = document.querySelector(".ml:first-child");
 const sk_counters = document.querySelectorAll(".counter span");
 const progress_bars = document.querySelectorAll(".skills svg circle");
